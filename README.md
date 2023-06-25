@@ -1,5 +1,8 @@
-# SHOP BÁN GIÀY
-## Thành viên
+---
+
+<h1 style="color:red;"> SHOP BÁN GIÀY </h1>
+
+### Thành viên
 <ul>
     <li>Trần Ngọc Hiếu Thảo <strong>[Nhóm trưởng]</strong></li>
     <li>Nguyễn Thị Kim Dung</li>
@@ -8,7 +11,17 @@
 </ul>
 
 ## Nội dung
-Gồm 2 phần:
-Header
-Menu
- https://hieuthao09.github.io/Shop_ban_giay/
+
+### Login
+<img src="./6.png" alt="Login"/>
+### Menu
+<img src="./2.png" />
+
+### Menu phone
+<img src="./4.png" />
+
+### Search
+<img src="./3.png" />
+
+---
+<p>Chưa kết nối CSDL chủ yếu là HTML/CSS + Javascript</p>
